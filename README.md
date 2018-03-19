@@ -1,3 +1,10 @@
+> # To Graders
+All the pdf submissions are in `pdf` folder
+
+If you want to see the original `.docx` or `.xlsx` file, they are in `source_files_docx_xlsx`.
+
+
+
 # Functional Safety of a Lane Assistance System
 
 
